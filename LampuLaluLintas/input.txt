@@ -1,0 +1,7 @@
+[InitialState]
+KMKMM
+[FinalState]
+HMHMM
+MHMMH
+MHMHM
+[END]
